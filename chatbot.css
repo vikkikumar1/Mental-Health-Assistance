@@ -1,0 +1,15 @@
+.chatbox {
+    background-color: #f0f4f8;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.user {
+    color: blue;
+    font-weight: bold;
+}
+
+.bot {
+    color: green;
+}
